@@ -1,11 +1,6 @@
-tensorflow==2.15.0
 streamlit
 pandas
 numpy
 keras
 matplotlib
 requests
-pyyaml==5.1
-pytorch==2.1.1
-torchvision==0.16.1
-torchaudio==2.1.1
