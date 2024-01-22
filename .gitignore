@@ -6,3 +6,4 @@
 .alcache/
 *.csv
 *.h5
+*.pth
