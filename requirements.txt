@@ -10,3 +10,4 @@ scipy
 six
 future
 protobuf
+git+https://github.com/facebookresearch/detectron2.git
