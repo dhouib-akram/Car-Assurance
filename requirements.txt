@@ -4,5 +4,6 @@ numpy
 keras
 matplotlib
 requests
+torch
+torchvision
 git+https://github.com/facebookresearch/detectron2.git
-
