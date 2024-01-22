@@ -1,0 +1,9 @@
+tensorflow==2.15.0
+streamlit
+pandas
+numpy
+keras
+matplotlib
+requests
+pyyaml==5.1
+'git+https://github.com/facebookresearch/detectron2.git'
