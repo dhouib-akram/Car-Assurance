@@ -8,7 +8,7 @@ This project applies AI to analyze car insurance claims following accidents. It 
 - **Damage Severity Classification**: Classify the severity of car damage into categories such as 'minor', 'moderate', and 'severe'.
 - **Car Damage Segmentation**: Implements Cascade Mask R-CNN for detailed segmentation of various car damage types.
 - **Cost Estimation**
-- **Car Brand Detection
+- **Car Brand Detection**
 ## AI or Not Classification Benchmark Results
 The "AI or Not" dataset was created by generating over 4000 synthetic images using Llava and complementing them with 4000 real car images collected through web scraping. This diverse dataset provides a comprehensive basis for training and evaluating our models.
 
