@@ -4,6 +4,7 @@ numpy
 keras
 matplotlib
 requests
-torch
-torchvision
+torch==1.12.1+cpu
+torchvision==0.13.1+cpu
 git+https://github.com/facebookresearch/detectron2.git
+
