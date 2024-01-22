@@ -6,4 +6,4 @@ keras
 matplotlib
 requests
 pyyaml==5.1
-'git+https://github.com/facebookresearch/detectron2.git'
+git+https://github.com/facebookresearch/detectron2.git
