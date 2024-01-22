@@ -36,4 +36,4 @@ The project employs Cascade Mask R-CNN for precise segmentation, detection, and 
 This project demonstrates the potential of AI in transforming the process of car insurance claims. By employing advanced techniques in image classification, damage assessment, and segmentation, it brings a new level of accuracy and efficiency to the insurance industry.
 
 ## Interactive Demo
-Experience our models in action and test them with your own images through this Gradio link: [Gradio Demo Link](#)
+Experience our models in action and test them with your own images through this Demo link: [Video Demo Link](https://drive.google.com/file/d/11wnZbeoIX_kfono5-bTmFpsDttAxmqNs/view?usp=sharing)
